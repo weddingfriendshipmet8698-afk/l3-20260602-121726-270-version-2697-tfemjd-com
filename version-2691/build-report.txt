@@ -1,0 +1,17 @@
+Parsed movies: 2000
+HTML files: 2014
+Detail pages: 2000
+Category pages: 10
+HLS source URLs extracted from original JS: 20
+Baidu script missing pages: 0
+Category distribution:
+  - 经典剧集: 200
+  - 年代家庭: 200
+  - 悬疑推理: 200
+  - 都市情感: 200
+  - 古装历史: 200
+  - 动作犯罪: 200
+  - 喜剧生活: 200
+  - 科幻奇幻: 200
+  - 日韩精选: 200
+  - 欧美佳片: 200

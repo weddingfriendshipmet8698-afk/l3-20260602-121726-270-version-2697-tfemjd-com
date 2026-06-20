@@ -1,0 +1,21 @@
+{
+  "source_records": 2000,
+  "movie_count": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_distribution": {
+    "hot-selection": 200,
+    "cn-focus": 200,
+    "cinema-choice": 200,
+    "series-binge": 200,
+    "mystery-thriller": 200,
+    "action-adventure": 200,
+    "romance-healing": 200,
+    "comedy-variety": 200,
+    "animation-fantasy": 200,
+    "global-picks": 200
+  },
+  "video_sources_unique": 20,
+  "placeholder_records_repaired": 18,
+  "html_pages": 2014
+}
